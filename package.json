@@ -1,5 +1,5 @@
 {
-  "name": "redis-node-demo",
+  "name": "redis-node",
   "version": "0.0.0",
   "private": true,
   "scripts": {
